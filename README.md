@@ -31,9 +31,7 @@ MS Office Suite, Visio, Google Docs, Markdown, Confluence, HTML, GitHub, Jira
 
 * A sample [Migration Guide](https://docs.google.com/document/d/1pbAR2nj7Di6YjB-8aJv4HZNMzRTq6qq83U2F8wvN8wg/edit?usp=sharing) from a (hypothetical) proprietary SecureVault Password Manager to the Amazon Web Services Secrets Manager.
 
-* A sample [API Reference Guide](https://docs.google.com/document/d/1RM4tDuAbpbB9qwTceVQ9_0Yru0MBCt2IvA1bbftN0ug/edit?usp=sharing) for the hypothetical `Customer Language Manager` REST API. 
-
-* A sample [CLI Reference Guide](xxx) for a hypothetical `secretsmgr` command line tool. 
+* A sample [API Reference Guide](https://docs.google.com/document/d/1RM4tDuAbpbB9qwTceVQ9_0Yru0MBCt2IvA1bbftN0ug/edit?usp=sharing) for the hypothetical `Customer Language Preferences` REST API. 
 
 ***
 
