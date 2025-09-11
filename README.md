@@ -13,7 +13,9 @@ MS Office Suite, Visio, Google Docs, Markdown, Confluence, HTML, GitHub, Jira
 ## Writing Samples
 
 ### 
-* Created [MaqamWorld](http://maqamworld.com), the leading internet resource for Arabic music theory, with over 500 daily active users, translated into 8 languages. For a sample of the writing and organization I recommend looking at [The Arabic Maqam](https://maqamworld.com/en/maqam.php) Page.
+* A sample [API Reference Guide](https://docs.google.com/document/d/1RM4tDuAbpbB9qwTceVQ9_0Yru0MBCt2IvA1bbftN0ug/edit?usp=sharing) for the hypothetical `Customer Language Preferences` REST API. 
+
+* A sample [Migration Guide](https://docs.google.com/document/d/1pbAR2nj7Di6YjB-8aJv4HZNMzRTq6qq83U2F8wvN8wg/edit?usp=sharing) from a (hypothetical) proprietary SecureVault Password Manager to the Amazon Web Services Secrets Manager.
 
 * Co-Authored [Inside Arabic Music](https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363), Oxford University Press (2019), a referece book on Arabic music theory and performance, with over 4000 copies sold. Some of the reader feedback from Amazon:
 
@@ -29,9 +31,6 @@ MS Office Suite, Visio, Google Docs, Markdown, Confluence, HTML, GitHub, Jira
 
 > “The book follows a scientific method and very organized, at the same time it presents the content in a smooth manner, away from the dry academic presentation, with many examples that makes it easier for the reader. The book presents content using many metaphors.“
 
-* A sample [Migration Guide](https://docs.google.com/document/d/1pbAR2nj7Di6YjB-8aJv4HZNMzRTq6qq83U2F8wvN8wg/edit?usp=sharing) from a (hypothetical) proprietary SecureVault Password Manager to the Amazon Web Services Secrets Manager.
-
-* A sample [API Reference Guide](https://docs.google.com/document/d/1RM4tDuAbpbB9qwTceVQ9_0Yru0MBCt2IvA1bbftN0ug/edit?usp=sharing) for the hypothetical `Customer Language Preferences` REST API. 
-
+* Created [MaqamWorld](http://maqamworld.com), the leading internet resource for Arabic music theory, with over 500 daily active users, translated into 8 languages. For a sample of the writing and organization I recommend looking at [The Arabic Maqam](https://maqamworld.com/en/maqam.php) Page.
 ***
 
