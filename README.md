@@ -13,9 +13,9 @@ MS Office Suite, Visio, Google Docs, Markdown, Confluence, HTML, GitHub, Jira
 ## Writing Samples
 
 ### 
-* A sample [API Reference Guide](https://docs.google.com/document/d/1RM4tDuAbpbB9qwTceVQ9_0Yru0MBCt2IvA1bbftN0ug/edit?usp=sharing) for the hypothetical `Customer Language Preferences` REST API. 
+* A sample [API Reference Guide](https://docs.google.com/document/d/1RM4tDuAbpbB9qwTceVQ9_0Yru0MBCt2IvA1bbftN0ug/edit?usp=sharing) for the (hypothetical) `Customer Language Preferences` REST API. 
 
-* A sample [Migration Guide](https://docs.google.com/document/d/1pbAR2nj7Di6YjB-8aJv4HZNMzRTq6qq83U2F8wvN8wg/edit?usp=sharing) from a (hypothetical) proprietary SecureVault Password Manager to the Amazon Web Services Secrets Manager.
+* A sample [Migration Guide](https://docs.google.com/document/d/1pbAR2nj7Di6YjB-8aJv4HZNMzRTq6qq83U2F8wvN8wg/edit?usp=sharing) from a (hypothetical) SecureVault Password Manager to the Amazon Web Services Secrets Manager.
 
 * Co-Authored [Inside Arabic Music](https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363), Oxford University Press (2019), a referece book on Arabic music theory and performance, with over 4000 copies sold. Some of the reader feedback from Amazon:
 
