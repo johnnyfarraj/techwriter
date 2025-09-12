@@ -17,7 +17,7 @@ MS Office Suite, Visio, Google Docs, Markdown, Confluence, HTML, GitHub, Jira
 
 * A sample [Migration Guide](https://docs.google.com/document/d/1pbAR2nj7Di6YjB-8aJv4HZNMzRTq6qq83U2F8wvN8wg/edit?usp=sharing) from a (hypothetical) SecureVault Password Manager to the Amazon Web Services Secrets Manager.
 
-* Co-Authored [Inside Arabic Music](https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363), Oxford University Press (2019), a referece book on Arabic music theory and performance, with over 4000 copies sold. Some of the reader feedback from Amazon:
+* Co-Authored [Inside Arabic Music](https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363), Oxford University Press (2019), a referece book on Arabic music theory and performance, with over 4000 copies sold. Preview of sample pages: [84](https://drive.google.com/file/d/1BZKz4jA16Z6t9j-HB2Zr5PK-y1RgDn7w/view?usp=sharing), [156](https://drive.google.com/file/d/1ZU1J_d5ScObqkiCk-n0E9BrCHo2eiKk7/view?usp=sharing), [289](https://drive.google.com/file/d/1w7NnejcTvtbwfM7xZgvVjWXifs6rOlXD/view?usp=sharing), and [328](https://drive.google.com/file/d/18JO_fx87kEJ3FNvg4JI9IsHf3Ok78V1X/view?usp=sharing). Sample reader feedback from Amazon:
 
 > “In terms of structure, _Inside Arabic Music_ is a marvel in readability. With each chapter limited to about 20 pages, the authors masterfully discuss a massive amount of information in a lucid language.”
 
